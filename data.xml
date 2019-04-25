@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<Clazzes>
+  <Clazz id="1" room="a">
+  </Clazz>
+  <Clazz id="2" room="b">
+  </Clazz>
+  <Clazz id="3" room="c">
+  </Clazz>
+</Clazzes>
